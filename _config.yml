@@ -1,6 +1,6 @@
 # Site settings
 title: 严淦的博客
-email: suyan0830@gmail.com
+email: yanganoffice@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
   精神的自留地
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -21,7 +21,7 @@ github: RyanDLX
 #linkedin: suyan404
 
 # avatar and Favicon
-avatar: http://imgs.yansu.org/site-avatar.png
+avatar:
 favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
@@ -47,4 +47,3 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
