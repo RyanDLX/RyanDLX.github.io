@@ -1,5 +1,5 @@
 ---
-title: Why Blog
+title: 精神自留地
 layout: post
 ---
 
